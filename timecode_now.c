@@ -1,3 +1,6 @@
+// Conversation about how this is used with ffmpeg to record timecode
+// https://twitter.com/PaulStoffregen/status/1310975743828975616
+
 // gcc -O2 -Wall -o timecode_now timecode_now.c
 
 // ffmpeg needs the drop frame format to create quicktime .mov which
